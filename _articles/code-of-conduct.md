@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+lang: ar
+title: مدونة السلوك الخاصة بمشروعك
+description: عزِّز السلوك الإيجابي والبنّاء في مجتمعك من خلال اعتماد وتطبيق مدونة سلوك.
 class: coc
 order: 8
 image: /assets/images/cards/coc.png
@@ -10,41 +10,42 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## لماذا تحتاج إلى مدونة سلوك ؟
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+تُعدّ مدونة السلوك وثيقة تُحدّد التوقعات والمعايير السلوكية للمشاركين في مشروعك. إن اعتماد مدونة سلوك وتطبيقها يُسهم في خلق بيئة اجتماعية إيجابية داخل مجتمع المشروع.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+تساعد مدونات السلوك في حماية جميع المشاركين — وليس المشاركين فقط، بل أيضًا أنت كمشرف أو مطوّر للمشروع. فبمرور الوقت، قد تؤدي المواقف غير البنّاءة من بعض الأعضاء إلى شعورك بالإرهاق أو فقدان الحافز تجاه العمل.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+تمنحك مدونة السلوك القدرة على تعزيز سلوك مجتمعي صحي وبنّاء، كما أن اتخاذ مواقف استباقية يقلل من احتمال شعورك أنت أو غيرك بالإجهاد من المشروع، ويساعدك على اتخاذ الإجراء المناسب عندما يتصرف أحد الأعضاء بطريقة غير لائقة أو غير متوافقة مع قيم المشروع.
 
-## Establishing a code of conduct
+## وضع مدونة سلوك
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+من الأفضل أن تقوم بوضع مدونة سلوك في أقرب وقت ممكن، ويفضل أن يكون ذلك عند إنشاء مشروعك لأول مرة.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+إلى جانب توضيح التوقعات الخاصة بك، تساعد مدونة السلوك على تحديد الأمور التالية:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* نطاق تطبيق مدونة السلوك _(هل تنطبق فقط على القضايا والطلبات، أم تشمل الأنشطة المجتمعية مثل الفعاليات؟)_
+* الأشخاص الذين ينطبق عليهم السلوك _(أعضاء المجتمع والمشرفون، وماذا عن الرعاة؟)_
+* الإجراءات المتخذة في حال خرق أحدهم مدونة السلوك
+* الطريقة التي يمكن من خلالها الإبلاغ عن الانتهاكات
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+كلما أمكن، اعتمد على نماذج موجودة مسبقًا بدل أن تصنع كل شيء من الصفر. على سبيل المثال، [اتفاقية المساهمين](https://contributor-covenant.org/) هي مدونة سلوك جاهزة يمكن دمجها مباشرة في مشروعك، وقد تبناها آلاف المشاريع المفتوحة المصدر مثل Kubernetes وRails وSwift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) are also two good code of conduct examples.
+ [مدونة سلوك Django](https://www.djangoproject.com/conduct/) و [مدونة السلوك للمواطنين](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) كما تعتبر هاتان المدونتان مثالين جيدين على مدونات السلوك يمكن الاعتماد عليهما.
 
 Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
 
-## Deciding how you'll enforce your code of conduct
+## تحديد كيفية تطبيق مدونة السلوك الخاصة بك
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+مدونة سلوك لا يمكن تطبيقها أو لا يتم تطبيقها فعليًا أسوأ من عدم وجود مدونة على الإطلاق، لأنها تعطي رسالة بأن القيم الواردة فيها ليست مهمة أو لا يتم احترامها داخل مجتمعك.
+
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+— [مبادرة آدا](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+ينبغي أن توضح كيف سيتم تطبيق مدونة السلوك الخاصة بك، بحيث يعرف الجميع الإجراءات المتخذة عند حدوث أي انتهاك وكيفية التعامل معه  عند حدوث أي انتهاك. هناك عدة أسباب تجعل من المهم توضيح ذلك:
 
 * It demonstrates that you are serious about taking action when it's needed.
 
@@ -52,17 +53,18 @@ You should explain how your code of conduct will be enforced **_before_** a viol
 
 * You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+يجب أن توفّر وسيلة خاصة للأشخاص للإبلاغ عن أي انتهاك لمدونة السلوك، مثل بريد إلكتروني مخصص، وتوضح من يستقبل هذا الإبلاغ. يمكن أن يكون شخصًا مشرفًا، أو مجموعة من المشرفين، أو فريق خاص بإدارة مدونة السلوك.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+تذكر أن هناك احتمال أن يرغب شخص بالإبلاغ عن انتهاك يرتبط بشخص يستقبل هذه التقارير. في هذه الحالة، يجب أن توفّر لهم خيارًا للإبلاغ إلى شخص آخر. على سبيل المثال، يمكن تحديد مشرفين بديلين مثل @ctb و @mr-c. [اشرح ذلك في مشروعهم](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> يمكن الإبلاغ عن أي سلوك مسيء أو تحرشي أو غير مقبول عبر إرسال بريد إلكتروني إلى: **khmer-project@idyll.org** والذي يذهب فقط إلى C. Titus Brown وMichael R. Crusoe. للإبلاغ عن أي مشكلة تتعلق بأحدهما، يرجى إرسال البريد الإلكتروني إلى: **Judi Brown Clarke, Ph.D.** إلى مدير التنوع في مركز BEACON لدراسة التطور في الفعل، وهو مركز تابع للصندوق الوطني للعلوم (NSF) للعلوم والتكنولوجيا.
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+للحصول على مصدر إلهام، يمكنك الاطلاع على مدونة سلوك Django.[دليل تطبيق القواعد](https://www.djangoproject.com/conduct/enforcement-manual/)
+(قد لا يكون من الضروري أن يكون لديك دليل شامل بهذا الشكل، فهذا يعتمد على حجم مشروعك).
 
-## Enforcing your code of conduct
+## تطبيق مدونة السلوك الخاصة بك
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+في بعض الأحيان، رغم كل جهودك، قد يقوم شخص ما بفعل يخالف مدونة السلوك. هناك عدة طرق للتعامل مع السلوك السلبي أو الضار عند حدوثه.
 
 ### Gather information about the situation
 
